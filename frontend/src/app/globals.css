@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  max-width: 1366px;
+}
+
+.imagestyles img,
+.footerlogo {
+  width: 10rem;
+}
+
+.font {
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  color: black;
+}
+
+.buttons {
+  display: flex;
+  justify-content: right;
+}
+
+.card {
+  width: 40%;
+  height: 400px;
+  margin: 2rem;
+}
+
+.card img {
+  width: 100%;
+  height: 55%;
+}
+
+.bodystyles {
+  width: 100%;
+  overflow: hidden;
+}
+
+.bodystyles img {
+  margin: -460px 0px 0px 0px;
+}
+
+.slideshowstyles {
+  background-image: url("../../public/ImageFive/Image5.png");
+}
+
+input {
+  height: 35px;
+  margin: 0.5rem;
+}
+
+.dot {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  border: 2px solid black;
+  display: flex;
+}
+
+.dotFilled {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  border: 2px solid black;
+  background-color: black;
+  display: flex;
+}
