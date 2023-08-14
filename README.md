@@ -2,7 +2,7 @@
 
 This project aims to replicate a UI composition provided by Mad Genius, a company known for their design expertise. The project involves reconstructing the provided design using functional elements, employing various programming languages and frameworks. The technologies used for this project are Next.js and Tailwind.
 
-// Getting Started
+## Getting Started
 
 To access the project, follow these steps:
 
@@ -24,20 +24,20 @@ To access the project, follow these steps:
    ```
 7. A link will appear in the terminal, such as `http://localhost:3000`. Open this link in your web browser to view the project.
 
-// Project Overview
+## Project Overview
 
-// Header Section
+## Header Section
 At the top half of the page, you will find a header with buttons featuring a hover effect. Additionally, there's a large photo displayed using overflow hidden and margin adjustments to create a cut-off appearance, similar to the design provided in the UI composition.
 
-// Content Section
+## Content Section
 Scrolling down, you'll come across three images accompanied by text and "Learn More" buttons, all displayed in columns. To ensure uniformity, the images were set to specific widths and heights before being placed within div elements with predetermined dimensions and margins.
 
-// Slideshow
+## Slideshow
 The project incorporates a slideshow functionality using JavaScript. The data for quotes, person names, and titles is stored in a variable called "data." These details are then integrated into the HTML, and functions for the previous and next buttons were implemented to control the slideshow's navigation.
 
-// Footer
+## Footer
 The footer section is structured using columns to organize the information. It includes the company logo and relevant images placed strategically within the layout.
 
-// Conclusion
+## Conclusion
 
 This project aims replicates the UI composition provided by Mad Genius. By utilizing Next.js and Tailwind technologies, functional elements were integrated to achieve the desired design. The project showcases skills in front-end development, responsive design, and JavaScript interactivity.
