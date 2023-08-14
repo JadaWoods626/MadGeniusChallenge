@@ -24,7 +24,6 @@ To access the project, follow these steps:
    ```
 7. A link will appear in the terminal, such as `http://localhost:3000`. Open this link in your web browser to view the project.
 
-## Project Overview
 
 ## Header Section
 At the top half of the page, you will find a header with buttons featuring a hover effect. Additionally, there's a large photo displayed using overflow hidden and margin adjustments to create a cut-off appearance, similar to the design provided in the UI composition.
